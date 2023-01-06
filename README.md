@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARKA ADHIKARY</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka-6&label=Profile%20views&color=0e75b6&style=flat" alt="arka-6" /> </p>
 
@@ -8,6 +9,8 @@
 - 🌱 I’m currently learning **Angular,React,Full stack web development**
 
 - 👯 I’m looking to collaborate on **E-commerce**
+
+- 👨‍💻 All of my projects are available at [https://github.com/arka-6](https://github.com/arka-6)
 
 - ⚡ Fun fact **The first computer mouse was invented in 1963 by Douglas Engelbart, a computer scientist at the Stanford Research Institute. The mouse was made of wood and had just one button. It was originally called an "X-Y Position Indicator for a Display System," but was later renamed to the "computer mouse" because of its tail-like cord. Today, the computer mouse is an integral part of modern computing, and is used by millions of people around the world.**
 
