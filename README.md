@@ -1,4 +1,4 @@
-![logo] (https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)
+<img src="https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif" alt="welcome" width="1300" height="400">
 <h1 align="center">Hi 👋, I'm ARKA ADHIKARY</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
