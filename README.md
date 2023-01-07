@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka-6&label=Profile%20views&color=0e75b6&style=flat" alt="arka-6" /> </p>
 
-- 🔭 I’m currently working on [Notes App](https://login-zeta-two.vercel.app/)
+- 🔭 I’m a 3rd yr Student pursuing B.Tech in CSE in Budge Budge Institute of Technology(BBIT)  
+- and  I'm currently working on [Notes App](https://login-zeta-two.vercel.app/)
 
-- 🌱 I’m currently learning **Angular,React,Full stack web development**
+- 🌱 I’m currently learning **Full stack web development**
 
-- 👯 I’m looking to collaborate on **E-commerce**
+- 👯 I’m looking to collaborate on **E-commerce app development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arka-6](https://github.com/arka-6)
 
